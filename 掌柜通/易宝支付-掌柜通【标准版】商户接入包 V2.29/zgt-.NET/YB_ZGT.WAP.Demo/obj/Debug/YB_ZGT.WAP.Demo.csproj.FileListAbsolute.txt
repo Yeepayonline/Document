@@ -1,0 +1,14 @@
+U:\临时文件\个人项目\YeePay\代码\WAP\YB_ZGT.WAP.Demo\YB_ZGT.WAP.Demo\bin\YB_ZGT.WAP.Demo.dll.config
+U:\临时文件\个人项目\YeePay\代码\WAP\YB_ZGT.WAP.Demo\YB_ZGT.WAP.Demo\bin\YB_ZGT.WAP.Demo.dll
+U:\临时文件\个人项目\YeePay\代码\WAP\YB_ZGT.WAP.Demo\YB_ZGT.WAP.Demo\bin\YB_ZGT.WAP.Demo.pdb
+U:\临时文件\个人项目\YeePay\代码\WAP\YB_ZGT.WAP.Demo\YB_ZGT.WAP.Demo\bin\Newtonsoft.Json.Net20.dll
+U:\临时文件\个人项目\YeePay\代码\WAP\YB_ZGT.WAP.Demo\YB_ZGT.WAP.Demo\obj\Debug\YB_ZGT.WAP.Demo.dll
+U:\临时文件\个人项目\YeePay\代码\WAP\YB_ZGT.WAP.Demo\YB_ZGT.WAP.Demo\obj\Debug\YB_ZGT.WAP.Demo.pdb
+U:\临时文件\个人项目\YeePay\代码\WAP\YB_ZGT.WAP.Demo\YB_ZGT.WAP.Demo\obj\Debug\YB_ZGT.WAP.Demo.csprojResolveAssemblyReference.cache
+F:\Yeepay\YB_ZGT.WAP.Demo\YB_ZGT.WAP.Demo\bin\YB_ZGT.WAP.Demo.dll.config
+F:\Yeepay\YB_ZGT.WAP.Demo\YB_ZGT.WAP.Demo\bin\YB_ZGT.WAP.Demo.dll
+F:\Yeepay\YB_ZGT.WAP.Demo\YB_ZGT.WAP.Demo\bin\YB_ZGT.WAP.Demo.pdb
+F:\Yeepay\YB_ZGT.WAP.Demo\YB_ZGT.WAP.Demo\bin\Newtonsoft.Json.Net20.dll
+F:\Yeepay\YB_ZGT.WAP.Demo\YB_ZGT.WAP.Demo\obj\Debug\YB_ZGT.WAP.Demo.csprojResolveAssemblyReference.cache
+F:\Yeepay\YB_ZGT.WAP.Demo\YB_ZGT.WAP.Demo\obj\Debug\YB_ZGT.WAP.Demo.dll
+F:\Yeepay\YB_ZGT.WAP.Demo\YB_ZGT.WAP.Demo\obj\Debug\YB_ZGT.WAP.Demo.pdb
